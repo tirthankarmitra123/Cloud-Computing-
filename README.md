@@ -50,7 +50,6 @@ Go to Metrics > Scope- select virtual machine > apply > select server1 > apply >
 
 ![Image](https://github.com/user-attachments/assets/e39d5ec3-09fd-4122-a5a2-e677fda48933)
 ![Image](https://github.com/user-attachments/assets/c427975c-f0d8-4756-800f-1f4c25dd8157)
-![Image](https://github.com/user-attachments/assets/1681a2b7-6e3b-4cef-86cd-6c87e1ded410)
 ![Image](https://github.com/user-attachments/assets/d77dd3ca-d432-482d-81fb-63962f00bc8b)
 
 
